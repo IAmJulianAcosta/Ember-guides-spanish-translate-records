@@ -8,13 +8,10 @@ https://crowdin.com/project/emberjs/es-ES
 
 ##Planned
 ###22/04/2016
-Objectives:
 
 1. `tutorial/ember-data.md` => @iamjulianacosta
 2. `tutorial/hbs-helper.md` => @iamjulianacosta
 3. `tutorial/model-hook.md` => @iamjulianacosta
-
-Overall Progress: 12%
 
 ##Revised
 
