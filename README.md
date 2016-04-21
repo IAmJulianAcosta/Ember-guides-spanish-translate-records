@@ -8,9 +8,13 @@ https://crowdin.com/translate/emberjs/426/en-es
 3. `tutorial/index.md`
 4. Some work on `addons-and-dependencies/managing-dependencies.md`
 
+Progress: 10%
+
 ##21/04/2016
 1. Finished `tutorial/autocomplete-component.md`
 2. `tutorial/deploying.md`
 3. `tutorial/ember-cli.md`
 4. `applications/applications-and-instances.md`
 5. Some code samples
+
+Progress: 12%
