@@ -1,0 +1,1 @@
+# Ember-spanish-translate-records.
