@@ -16,6 +16,7 @@ Progress: 10%
 3. `tutorial/ember-cli.md`
 4. `applications/applications-and-instances.md`
 5. Some code samples
+6. Started `models/index.md` (13%)
 
 Progress: 12%
 
