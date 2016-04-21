@@ -8,6 +8,6 @@ https://crowdin.com/translate/emberjs/426/en-es
 3. `tutorial/index.md`
 4. Some work on `addons-and-dependencies/managing-dependencies.md`
 
-##20/04/2016
+##21/04/2016
 1. Finished `tutorial/autocomplete-component.md`
 2. `tutorial/deploying.md`
