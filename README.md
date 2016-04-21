@@ -18,3 +18,9 @@ Progress: 10%
 5. Some code samples
 
 Progress: 12%
+
+##22/04/2016
+Objectives:
+1. `tutorial/ember-data.md`
+2. `tutorial/hbs-helper.md`
+3. `tutorial/model-hook.md`
