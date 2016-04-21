@@ -1,5 +1,5 @@
 # Translations made to ember guides:
-https://crowdin.com/translate/emberjs/426/en-es
+https://crowdin.com/project/emberjs/es-ES
 
 ##Overall progress (21/04/2016): 12%
 
