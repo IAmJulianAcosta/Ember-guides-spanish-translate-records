@@ -26,6 +26,8 @@ Overall Progress: 12%
 4. `applications/applications-and-instances.md`  => @iamjulianacosta
 5. Some code samples => @iamjulianacosta
 
+Overall Progress: 12%
+
 ###20/04/2016
 1. Finished `getting-started/quick-start.md` => @iamjulianacosta
 2. `glossary.md` => @iamjulianacosta
