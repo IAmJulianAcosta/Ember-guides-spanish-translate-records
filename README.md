@@ -12,3 +12,5 @@ https://crowdin.com/translate/emberjs/426/en-es
 1. Finished `tutorial/autocomplete-component.md`
 2. `tutorial/deploying.md`
 3. `tutorial/ember-cli.md`
+4. `applications/applications-and-instances.md`
+5. Some code samples
