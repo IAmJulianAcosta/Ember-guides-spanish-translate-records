@@ -16,7 +16,9 @@ Objectives:
 
 Overall Progress: 12%
 
-##Done
+##Revised
+
+##Translated
 ###21/04/2016
 1. Finished `tutorial/autocomplete-component.md` => @iamjulianacosta
 2. `tutorial/deploying.md` => @iamjulianacosta
