@@ -8,7 +8,7 @@ https://crowdin.com/translate/emberjs/426/en-es
 3. `tutorial/index.md`
 4. Some work on `addons-and-dependencies/managing-dependencies.md`
 
-Progress: 10%
+Overall Progress: 10%
 
 ##21/04/2016
 1. Finished `tutorial/autocomplete-component.md`
@@ -18,7 +18,7 @@ Progress: 10%
 5. Some code samples
 6. Started `models/index.md` (13%)
 
-Progress: 12%
+Overall Progress: 12%
 
 ##22/04/2016
 Objectives:
