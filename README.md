@@ -1,29 +1,33 @@
 # Translations made to ember guides:
-
 https://crowdin.com/translate/emberjs/426/en-es
 
-##20/04/2016
-1. Finished `getting-started/quick-start.md`
-2. `glossary.md`
-3. `tutorial/index.md`
-4. Some work on `addons-and-dependencies/managing-dependencies.md`
+##Overall progress (21/04/2016): 12%
 
-Overall Progress: 10%
+##WIP
+1. Started `models/index.md` (13%) => @emilymb
 
-##21/04/2016
-1. Finished `tutorial/autocomplete-component.md`
-2. `tutorial/deploying.md`
-3. `tutorial/ember-cli.md`
-4. `applications/applications-and-instances.md`
-5. Some code samples
-6. Started `models/index.md` (13%)
+##Planned
+###22/04/2016
+Objectives:
+
+1. `tutorial/ember-data.md` => @iamjulianacosta
+2. `tutorial/hbs-helper.md` => @iamjulianacosta
+3. `tutorial/model-hook.md` => @iamjulianacosta
+
+###21/04/2016
+1. Finished `tutorial/autocomplete-component.md` => @iamjulianacosta
+2. `tutorial/deploying.md` => @iamjulianacosta
+3. `tutorial/ember-cli.md` => @iamjulianacosta
+4. `applications/applications-and-instances.md`  => @iamjulianacosta
+5. Some code samples => @iamjulianacosta
 
 Overall Progress: 12%
 
-##22/04/2016
-Objectives:
+##Done
+###20/04/2016
+1. Finished `getting-started/quick-start.md` => @iamjulianacosta
+2. `glossary.md` => @iamjulianacosta
+3. `tutorial/index.md` => @iamjulianacosta
+4. Some work on `addons-and-dependencies/managing-dependencies.md` => @iamjulianacosta
 
-1. `tutorial/ember-data.md`
-2. `tutorial/hbs-helper.md`
-3. `tutorial/model-hook.md`
-
+Overall Progress: 10%
