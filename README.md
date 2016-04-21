@@ -14,6 +14,9 @@ Objectives:
 2. `tutorial/hbs-helper.md` => @iamjulianacosta
 3. `tutorial/model-hook.md` => @iamjulianacosta
 
+Overall Progress: 12%
+
+##Done
 ###21/04/2016
 1. Finished `tutorial/autocomplete-component.md` => @iamjulianacosta
 2. `tutorial/deploying.md` => @iamjulianacosta
@@ -21,9 +24,6 @@ Objectives:
 4. `applications/applications-and-instances.md`  => @iamjulianacosta
 5. Some code samples => @iamjulianacosta
 
-Overall Progress: 12%
-
-##Done
 ###20/04/2016
 1. Finished `getting-started/quick-start.md` => @iamjulianacosta
 2. `glossary.md` => @iamjulianacosta
