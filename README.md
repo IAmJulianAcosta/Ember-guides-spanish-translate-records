@@ -1,21 +1,26 @@
 # Translations made to ember guides:
 https://crowdin.com/project/emberjs/es-ES
 
-##Overall progress (21/04/2016): 12%
+##Overall progress (21/04/2016): 14%
 
 ##WIP
 1. Started `models/index.md` (13%) => @emilymb
 
 ##Planned
-###22/04/2016
+###25/04/2016
 
-1. `tutorial/ember-data.md` => @iamjulianacosta
-2. `tutorial/hbs-helper.md` => @iamjulianacosta
-3. `tutorial/model-hook.md` => @iamjulianacosta
+1. `tutorial/hbs-helper.md` => @iamjulianacosta
 
 ##Revised
 
 ##Translated
+
+###22/04/2016
+1. `tutorial/ember-data.md` => @iamjulianacosta
+2. `tutorial/model-hook.md` => @iamjulianacosta
+
+Overall Progress: 14%
+
 ###21/04/2016
 1. Finished `tutorial/autocomplete-component.md` => @iamjulianacosta
 2. `tutorial/deploying.md` => @iamjulianacosta
