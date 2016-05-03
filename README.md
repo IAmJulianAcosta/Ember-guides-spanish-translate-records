@@ -4,7 +4,7 @@ https://crowdin.com/project/emberjs/es-ES
 ##Overall progress (22/04/2016): 14%
 
 ##WIP
-1. Started `models/index.md` (13%) => @emilymb
+1. Started `models/index.md` (95%) => @emilymb
 
 ##Planned
 ###25/04/2016
