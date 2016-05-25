@@ -15,6 +15,7 @@ https://crowdin.com/project/emberjs/es-ES
 
 ###22/05/2016
 1. `tutorial/autocomplete-component.md` => @iamjulianacosta
+
 Overall Progress: 15%
 
 ###22/04/2016
