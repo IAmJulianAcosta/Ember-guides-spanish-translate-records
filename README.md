@@ -7,7 +7,7 @@ https://crowdin.com/project/emberjs/es-ES
 1. Started `models/index.md` (95%) => @emilymb
 
 ##Planned
-1. 
+1. `tutorial/routes-and-templates.md` => @iamjulianacosta
 
 ##Revised
 
