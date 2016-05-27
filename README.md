@@ -14,6 +14,8 @@ https://crowdin.com/project/emberjs/es-ES
 ##Translated
 ###27/05/2016
 1. `tutorial/routes-and-templates.md` => @iamjulianacosta
+2. `getting-started/index.md` => @iamjulianacosta
+3. `getting-started/quick-start.md` => @iamjulianacosta
 
 Overall Progress: 20%
 
