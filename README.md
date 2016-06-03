@@ -12,19 +12,19 @@ https://crowdin.com/project/emberjs/es-ES
 
 ##Translated
 ###03/06/2016
-1. `contributing/adding-new-features.md`
-2. `contributing/repositories.md`
-3. `glossary/web-development.md`
+1. `contributing/adding-new-features.md` => @iamjulianacosta
+2. `contributing/repositories.md` => @iamjulianacosta
+3. `glossary/web-development.md` => @iamjulianacosta
 
 Overall Progress: 26%
 
 ###29/05/2016
-1. `tutorial/simple-component.md`
+1. `tutorial/simple-component.md` => @iamjulianacosta
 
 Overall Progress: 24%
 
 ###28/05/2016
-1. `tutorial/services.md`
+1. `tutorial/services.md` => @iamjulianacosta
 
 Overall Progress: 22%
 
