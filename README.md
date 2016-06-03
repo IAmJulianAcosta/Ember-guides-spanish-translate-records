@@ -1,7 +1,7 @@
 # Translations made to ember guides:
 https://crowdin.com/project/emberjs/es-ES
 
-##Overall progress (27/04/2016): 24%
+##Overall progress (03/06/2016): 26%
 
 ##WIP
 1. Started `models/index.md` (95%) => @emilymb
@@ -11,6 +11,13 @@ https://crowdin.com/project/emberjs/es-ES
 ##Revised
 
 ##Translated
+###03/06/2016
+1. `contributing/adding-new-features.md`
+2. `contributing/repositories.md`
+3. `glossary/web-development.md`
+
+Overall Progress: 26%
+
 ###29/05/2016
 1. `tutorial/simple-component.md`
 
